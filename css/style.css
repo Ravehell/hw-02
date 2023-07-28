@@ -1,0 +1,101 @@
+:root{
+    --primary-font-: 'Roboto', sans-serif;
+    --primary-grey-color: #2E2F42;
+    --primary-blue-color:  #4D5AE5;
+    --primary-font-size: 16;
+    --primary-color-white: #F4F4FD;
+}
+
+.header-Web{
+ color: var(--iris, #4D5AE5); 
+  font-size: 18px;
+font-style: normal;
+font-weight: 800;
+letter-spacing: 0.54px;
+text-decoration: none;
+}
+
+.header-Studio{
+ color: var(--navyblue, #2E2F42); 
+  font-size: 18px;
+font-style: normal;
+font-weight: 800;
+letter-spacing: 0.54px;
+text-decoration: none;
+}
+
+.header-list{
+    list-style: none;
+}
+
+.info-list{
+    text-decoration: none;
+ color: var(--navyblue, #2E2F42);
+ font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; 
+letter-spacing: 0.32px;
+}
+
+.address-list{
+    list-style: none;
+}
+
+.address{
+ color: var(--slate, #434455);
+ font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.32px;
+text-decoration: none;
+}
+
+/* Button list */
+.button-list{
+    list-style: none;
+}
+
+.button-portfolio{
+ color: var(--iris, #4D5AE5 );
+ font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.64px;
+
+}
+    
+    
+.footer{
+    background: var(--navyblue, #2E2F42);
+}
+
+.footer-Web{
+    color: var(--iris, #4D5AE5); 
+  font-size: 18px;
+font-style: normal;
+font-weight: 400;
+letter-spacing: 0.54px;
+text-decoration: none;
+}
+
+.footer-Studio{
+ color: var(--cloud, #F4F4FD);
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+letter-spacing: 0.54px;
+text-decoration: none;
+}
+
+.footer-text{
+    color: var(--cloud, #F4F4FD);
+    font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; 
+letter-spacing: 0.32px;
+}
